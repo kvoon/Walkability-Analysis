@@ -1,7 +1,9 @@
 # Walkability-Analysis
 
-First assignment done at uni using Jupyter Notebooks. Part of a 2 person group assignment. 
+The project was undertaken originally as part of a Data Science university group project, done as a 2-person team. 
 
-The objective of the assignment was to gather and integrate several datasets to perform data analysis of the walkability of different parts of Sydney.
+The objective of this assignment was to curate and merge diverse datasets, with the aim of conducting a comprehensive analysis of the walkability metrics of distinct geographical areas within Sydney.
+
+Pair programming was utilised to complete the programming aspect of this assignment. 
 
 The main notebook file is `DATA2001+Assignment+.ipynb`
