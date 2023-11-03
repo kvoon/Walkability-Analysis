@@ -6,4 +6,13 @@ The objective of this assignment was to curate and merge diverse datasets, with 
 
 Pair programming was utilised to complete the programming aspect of this assignment. 
 
-The main notebook file is `DATA2001+Assignment+.ipynb`
+The main notebook file is `DATA2001+Assignment+.ipynb`. The original datasets and an ERD are also contained in this repository. 
+
+## Tech Stack
+- Python: Utilised to perform the data analysis in a Jupyter notebook.
+- Psycopg2 (PostgreSQL): Used to establish connections to the university's PostgreSQL database and to perform SQL queries in order to load and manipulate the data to perform analysis.
+- Matplotlib & Seaborn: Used to generate the scatter plots to determine correlation scores between different variables.
+- Pandas: used to load the data as data frames which made it easier to work with,
+- Numpy: used to perform numerical and mathematical calculations.
+- Shape: used to load in shape files (.shp). 
+- Geopandas: used to generate map diagrams using the shape files. 
