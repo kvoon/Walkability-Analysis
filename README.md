@@ -6,7 +6,7 @@ The objective of this assignment was to curate and merge diverse datasets, with 
 
 Pair programming was utilised to complete the programming aspect of this assignment. 
 
-The main notebook file is `DATA2001+Assignment+.ipynb`. The original datasets and an ERD are also contained in this repository. 
+The main notebook file is `Walkability Analysis Assignment.ipynb`. The original datasets and an ERD are also contained in this repository. 
 
 ## Tech Stack
 - Python: Utilised to perform the data analysis in a Jupyter notebook.
